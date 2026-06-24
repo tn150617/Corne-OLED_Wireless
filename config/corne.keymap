@@ -64,7 +64,7 @@
 
             bindings = <
 &kp TAB           &kp N1  &kp N2    &kp N3          &kp N4     &kp N5       &kp N6     &kp N7    &kp N8          &kp N9     &kp N0    &kp BSPC
-&kp LEFT_CONTROL  &trans  &kp F2    &kp UP_ARROW    &trans     &kp A        &trans     &trans    &kp UP          &trans     &kp HOME  &kp PAGE_UP
+&kp LEFT_CONTROL  &kp A   &kp F2    &kp UP_ARROW    &trans     &kp A        &trans     &trans    &kp UP          &trans     &kp HOME  &kp PAGE_UP
 &tog 3            &tog 0  &kp LEFT  &kp DOWN_ARROW  &kp RIGHT  &kp DEL      &trans     &kp LEFT  &kp DOWN_ARROW  &kp RIGHT  &kp END   &kp PAGE_DOWN
                                     &kp LEFT_WIN    &trans     &kp ENTER    &kp SPACE  &trans    &kp RALT
             >;
